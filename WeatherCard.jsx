@@ -1,3 +1,4 @@
+import React from 'react';
 import { formatTime, getTemperatureSymbol } from '../utils/weather.js';
 
 function WeatherCard({ weather, unit }) {

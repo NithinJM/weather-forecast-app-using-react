@@ -1,3 +1,4 @@
+import React from 'react';
 import { getSpeedUnit } from '../utils/weather.js';
 
 function WeatherHighlights({ weather, unit }) {

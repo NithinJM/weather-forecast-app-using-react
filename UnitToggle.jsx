@@ -1,3 +1,4 @@
+import React from 'react';
 function UnitToggle({ unit, onChange }) {
   return (
     <div className="unit-toggle" role="group" aria-label="Temperature unit">

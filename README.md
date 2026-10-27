@@ -22,7 +22,19 @@ A dynamic React weather app that uses the OpenWeatherMap API to show current con
    npm run dev
    ```
 
-4. Open the local URL shown in the terminal.
+   Vite starts on `http://127.0.0.1:5173/`. Open that URL in your browser.
+
+4. To create a production build:
+
+   ```bash
+   npm run build
+   ```
+
+   To preview the production build locally:
+
+   ```bash
+   npm run preview
+   ```
 
 ## OpenWeatherMap API Key
 

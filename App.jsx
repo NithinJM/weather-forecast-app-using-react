@@ -1,3 +1,4 @@
+import React from 'react';
 import { useMemo, useState } from 'react';
 import Forecast from './components/Forecast.jsx';
 import SearchBar from './components/SearchBar.jsx';

@@ -1,3 +1,4 @@
+import React from 'react';
 import { formatDay, getTemperatureSymbol } from '../utils/weather.js';
 
 function Forecast({ forecast, unit }) {
